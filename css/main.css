@@ -1,0 +1,228 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v4368_321106 {
+  width: 100%;
+  height: 2092px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4368_321107 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 279px;
+  left: 217px;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v4368_321108 {
+  width: 227px;
+  height: 64px;
+  background: rgba(66,107,31,1);
+  padding: 19px 32px;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 481px;
+  left: 607px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v4368_321109 {
+  width: 163px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 19px;
+  left: 32px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v605_9 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/v605_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 162px;
+  overflow: hidden;
+}
+.v4368_321110 {
+  width: 822px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1550px;
+  left: 309px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v4368_321111 {
+  width: 181px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1555px;
+  left: 96px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v4368_321113 {
+  width: 504px;
+  height: 693px;
+  background: url("../images/v4368_321113.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 701px;
+  left: 96px;
+  overflow: hidden;
+}
+.v4368_321114 {
+  width: 736px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1287px;
+  left: 660px;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v4368_321115 {
+  width: 100%;
+  height: 112px;
+  background: url("../images/v4368_321115.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4368_321116 {
+  width: 151px;
+  color: rgba(66,107,31,1);
+  position: absolute;
+  top: 41px;
+  left: 96px;
+  font-family: Newsreader;
+  font-weight: Medium;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v4368_321117 {
+  width: 39px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 45px;
+  left: 744px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v4368_321118 {
+  width: 77px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 45px;
+  left: 831px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v4368_321119 {
+  width: 90px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 45px;
+  left: 956px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v4368_321120 {
+  width: 76px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 45px;
+  left: 1094px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v4368_321121 {
+  width: 126px;
+  height: 48px;
+  background: rgba(66,107,31,1);
+  padding: 14px 23px;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 32px;
+  left: 1218px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v4368_321122 {
+  width: 80px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 13px;
+  left: 23px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v4508_320607 {
+  width: 780px;
+  height: 480px;
+  background: url("../images/v4508_320607.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 791px;
+  left: 660px;
+  overflow: hidden;
+}
